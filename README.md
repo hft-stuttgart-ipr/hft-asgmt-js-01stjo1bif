@@ -7,10 +7,10 @@ DO NOT EDIT THE HTML! This is a JS only assignment.
 ## TODO
 
 - FormValidation:
-  - [ ] Listen to `keyup` event on `textarea` and on `input` or on the whole `form`
-  - [ ] Username toggles Alert box visible if username length is smaller than 3 chars
-  - [ ] Textarea toggles Alert box visible if textarea text length is smaller than 10 chars
-  - [ ] If form values are ok, alert box is hidden
+  - [x] Listen to `keyup` event on `textarea` and on `input` or on the whole `form`
+  - [x] Username toggles Alert box visible if username length is smaller than 3 chars
+  - [x] Textarea toggles Alert box visible if textarea text length is smaller than 10 chars
+  - [x] If form values are ok, alert box is hidden
   - [ ] OPTIONAL: Enable / Disable the Send button in a similar way the alert box works: Disable if there are errors. Enable if everthing is ok
 
 ## Hints
